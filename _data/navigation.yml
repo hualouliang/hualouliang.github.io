@@ -19,7 +19,7 @@ main:
     url: /people/
     
   - title: "News"
-    url: /posts/
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
