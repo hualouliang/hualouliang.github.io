@@ -33,6 +33,8 @@ Rujia Chen, Feng Wang, **Hualou Liang**, Wu Li. Synergistic processing of visual
 
 **Hualou Liang** and Hongbin Wang, Structure-Function Network Mapping and its Assessment via Persistent Homology, *PLoS Computational Biology*, 13(1): e1005325, 2017. 
 
+Meng Hu and **Hualou Liang**, Multiscale Entropy: Recent Advances, In: *Complexity and Nonlinearity in Cardiovascular Signals*, edited by Riccardo Barbieri, Enzo Pasquale Scilingo, Gaetano Valenza, Springer, pp. 115 – 138, 2017.
+
 2016
 ------
 Meng Hu, Mingyao Li, Wu Li and **Hualou Liang**, Joint Analysis of Spikes and Local Field Potentials using Copula, *NeuroImage*, 133: 457 - 467, 2016.
@@ -66,6 +68,8 @@ Sanqing Hu and **Hualou Liang**, Causality Analysis of Neural Connectivity: New 
 Meng Hu and **Hualou Liang**, Variance Entropy: A Method for Characterizing Perceptual Awareness of Visual Stimulus, *Applied Computational Intelligence and Soft Computing*, vol. 2012, Article ID 525396, page 1 - 6, 2012.
 
 Meng Hu and **Hualou Liang**, Noise-Assisted Instantaneous Coherence Analysis of Brain Connectivity, *Computational Intelligence and Neuroscience, Special Issue on Advanced Computational Techniques and Tools for Neuroscience*, vol. 2012, Article ID 275073, page 1 - 12, 2012. 
+
+**Hualou Liang**, Joseph D. Bronzino and Donald R. Peterson (editors), **Biosignal Processing: Principles and Practice**s, CRC Press, 2012.
 
 2011
 ------
@@ -136,6 +140,8 @@ Yuqiao Gu, Björn Wahlund, Hans Liljenström, Dietrich von Rosen and **Hualou Li
 
 **Hualou Liang**, Extraction of Gastric Slow Waves from Electrogastrograms: Combining Independent Component Analysis and Adaptive Signal Enhancement, *Medical & Biological Engineering & Computing*, 43 (2), 245-251, 2005.
 
+**Hualou Liang**, Application of Support Vector Machine to the Detection of Delayed Gastric Emptying from Electrogastrograms, In: *Support Vector Machines: Theory and Applications*, edited by L. Wang, Springer-Verlag, pp. 399 - 412, 2005.
+
 2003
 ------
 **Hualou Liang** and Hongbin Wang, Top-Down Anticipatory Control in Prefrontal Cortex, *Theory in Biosciences*, 122 (1), 70 - 86, 2003.
@@ -149,6 +155,8 @@ Yuqiao Gu, Björn Wahlund, Hans Liljenström, Dietrich von Rosen and **Hualou Li
 **Hualou Liang** and Zhiyue Lin, Stimulus Artifact Cancellation in Gastric Myoelectrical Recordings Using Wavelet Transform, *IEEE Transactions on Biomedical Engineering*, 49(7), 681 - 688, 2002.
 
 **Hualou Liang**, Mingzhou Ding, Steven L. Bressler, Temporal dynamics of Information Flow in the Cerebral Cortex, *Neurocomputing*, Vol.38-40, pp. 1429-1435, 2001.  Erratum to "Temporal dynamics of Information Flow in the Cerebral Cortex", *Neurocomputing*, Vol.42, pp.339, 2002.
+
+**Hualou Liang** and Zhiyue Lin, Multiresolution Signal Decomposition and its Applications to Electrogastric Signals, In: *Recent research developments in biomedical engineering*, 15 - 31, February 2002.
 
 2001
 ------
