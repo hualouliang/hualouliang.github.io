@@ -33,6 +33,4 @@ Hualou Liang, PhD
   Email: hualou.liang@drexel.edu
 </address>
 
-> Blockquote paragraphs must have
-> a right-arrow bracket at the start
-> of every single line.
+Prefix Markdown characters with \*backslashes\* to ignore formatting.
