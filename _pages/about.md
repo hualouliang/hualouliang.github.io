@@ -11,22 +11,21 @@ redirect_from:
 Hualou Liang, PhD
 ======
 
-Professor
+### Professor
 
 <address>
   School of Biomedical Engineering, Science & Health Systems<br /> 
   Drexel University
 </address>
 
-Affiliation
-======
+### Affiliation
 <address>
   Computational Neuroscience Initiative<br /> 
   University of Pennsylvania
 </address>
 
-Contact
-======
+### Contact
+
 <address>
   Drexel University<br />
   3141 Chestnut Street<br />
