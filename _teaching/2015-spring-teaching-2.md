@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks"
 collection: teaching
-type: ""
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "BMES-725"
 date: 2019 Spring
