@@ -15,7 +15,7 @@ Hualou Liang, PhD
 
 <address>
   School of Biomedical Engineering, Science & Health Systems<br /> 
-  Drexel University
+  [Drexel University](https://drexel.edu/)
 </address>
 
 ### Affiliation
