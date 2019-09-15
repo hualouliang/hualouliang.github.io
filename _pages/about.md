@@ -18,7 +18,6 @@ Hualou Liang, PhD
 
 ## Affiliation
 [Computational Neuroscience Initiative](https://cni.upenn.edu/)\
-
 [University of Pennsylvania](https://www.upenn.edu/)
 
 
