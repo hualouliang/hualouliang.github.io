@@ -2,7 +2,7 @@
 title: "Neural Networks"
 collection: teaching
 type: ""
-permalink: /teaching/2019-spring
+permalink: /teaching/2015-spring-teaching-2
 venue: "BMES-725"
 date: 2019 Spring
 location: "City, Country"
