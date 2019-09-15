@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "About Me"
+permalink: /aboutme/
 author_profile: true
-redirect_from: 
-  - /aboutme/
-  - /aboutme.html
 ---
 
 Hualou Liang, PHD, is a Professor of [Biomedical Engineering](https://drexel.edu/biomed/) at [Drexel University](https://drexel.edu/). He is affiliated with the [Computational Neuroscience Initiative](https://cni.upenn.edu/) at [University of Pennsylvania](https://home.www.upenn.edu/). He is known for pioneering the application of causal functional connectivity measures, particularly Granger causality, to the analysis of complex, high-dimensional neuroscience data. He is an elected Fellow of the American Institute for Medical Biological Engineering (AIMBE).
