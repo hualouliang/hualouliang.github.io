@@ -12,7 +12,7 @@ Hualou Liang, PhD
 ======
 
 ## Professor
-<!--- You may force a line break with two spaces ---!>
+<!--- You may force a line break with two spaces --->
 [School of Biomedical Engineering, Science & Health Systems](https://drexel.edu/biomed/)  
 [Drexel University](https://drexel.edu/)
 
@@ -32,3 +32,4 @@ Hualou Liang, PhD
   Fax: 215-895-4983<br />
   Email: hualou.liang@drexel.edu
 </address>
+
