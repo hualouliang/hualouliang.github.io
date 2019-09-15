@@ -11,19 +11,19 @@ redirect_from:
 Hualou Liang, PhD
 ======
 
-## Professor
+# Professor
 
 [School of Biomedical Engineering, Science & Health Systems](https://drexel.edu/biomed/)
 
 [Drexel University](https://drexel.edu/)
 
-## Affiliation
+# Affiliation
 [Computational Neuroscience Initiative](https://cni.upenn.edu/) 
 
 [University of Pennsylvania](https://www.upenn.edu/)
 
 
-## Contact
+# Contact
 
 <address>
   Drexel University<br />
