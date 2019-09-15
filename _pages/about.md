@@ -32,5 +32,3 @@ Hualou Liang, PhD
   Fax: 215-895-4983<br />
   Email: hualou.liang@drexel.edu
 </address>
-
-Prefix Markdown characters with \*backslashes\* to ignore formatting.
