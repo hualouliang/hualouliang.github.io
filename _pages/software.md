@@ -10,4 +10,4 @@ redirect_from:
 
 [BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits](http://www.brain-smart.org/)
 
-For more software packages, visit my [GitHub](https://github.com/hualouliang)
+For more software packages developed in the lab, visit our [GitHub](https://github.com/hualouliang)
