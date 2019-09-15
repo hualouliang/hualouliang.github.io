@@ -18,10 +18,10 @@ Hualou Liang, PhD
 [Drexel University](https://drexel.edu/)
 
 ### Affiliation
-<address>
-  Computational Neuroscience Initiative<br /> 
-  University of Pennsylvania
-</address>
+[Computational Neuroscience Initiative](https://cni.upenn.edu/) 
+
+[University of Pennsylvania](https://www.upenn.edu/)
+
 
 ### Contact
 
