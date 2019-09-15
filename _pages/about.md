@@ -13,13 +13,17 @@ Hualou Liang, PhD
 
 Professor
 
-School of Biomedical Engineering, Science & Health Systems
-Drexel University
+<address>
+  School of Biomedical Engineering, Science & Health Systems<br /> 
+  Drexel University
+</address>
 
 Affiliation
 ======
-Computational Neuroscience Initiative
-University of Pennsylvania
+<address>
+  Computational Neuroscience Initiative<br /> 
+  University of Pennsylvania
+</address>
 
 Contact
 ======
