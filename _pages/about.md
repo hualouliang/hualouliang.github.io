@@ -13,10 +13,9 @@ Hualou Liang, PhD
 
 ### Professor
 
-<address>
-  School of Biomedical Engineering, Science & Health Systems<br /> 
-  [Drexel University](https://drexel.edu/)
-</address>
+[School of Biomedical Engineering, Science & Health Systems](https://drexel.edu/biomed/)
+
+[Drexel University](https://drexel.edu/)
 
 ### Affiliation
 <address>
