@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits"
+title: "Analysis Software Available"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
