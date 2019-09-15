@@ -21,37 +21,37 @@ Taegyo Kim, Kendall A Schmidt, Christopher W Deemie, Joanna Wycech, **Hualou Lia
 
 2018
 ------
-Mukesh Dhamala, **Hualou Liang**, Steven L. Bressler and Mingzhou Ding,  Granger-Geweke causality: estimation and interpretation, *NeuroImage*, 175: 460 – 463, 2018.   
+Mukesh Dhamala, **Hualou Liang**, Steven L. Bressler and Mingzhou Ding, [Granger-Geweke causality: estimation and interpretation](https://www.sciencedirect.com/science/article/pii/S1053811918303537?via%3Dihub), *NeuroImage*, 175: 460 – 463, 2018.   
 
-Meng Hu, Wu Li and **Hualou Liang**, A Copula-based Granger Causality Measure for the Analysis of Neural Spike Train Data, *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, 15(2): 562 - 569, 2018.
+Meng Hu, Wu Li and **Hualou Liang**, [A Copula-based Granger Causality Measure for the Analysis of Neural Spike Train Data](https://ieeexplore.ieee.org/document/7001041), *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, 15(2): 562 - 569, 2018.
 
 2017
 ------
-Rujia Chen, Feng Wang, **Hualou Liang**, Wu Li. Synergistic processing of visual contours across cortical layers in V1 and V2. *Neuron*, 96 (6): 1388–1402, 2017.
+Rujia Chen, Feng Wang, **Hualou Liang**, Wu Li. [Synergistic processing of visual contours across cortical layers in V1 and V2](https://www.sciencedirect.com/science/article/pii/S0896627317310322?via%3Dihub). *Neuron*, 96 (6): 1388–1402, 2017.
 
-**Hualou Liang**, Xiajing Gong, Minggui Chen, Yin Yan, Wu Li, Charles D. Gilbert. Interactions between feedback and lateral connections in the primary visual cortex, *Proceedings of the National Academy of Sciences USA*, 114 (32): 8637–8642, 2017.
+**Hualou Liang**, Xiajing Gong, Minggui Chen, Yin Yan, Wu Li, Charles D. Gilbert. [Interactions between feedback and lateral connections in the primary visual cortex](https://www.pnas.org/content/114/32/8637.long), *Proceedings of the National Academy of Sciences USA*, 114 (32): 8637–8642, 2017.
 
-**Hualou Liang** and Hongbin Wang, Structure-Function Network Mapping and its Assessment via Persistent Homology, *PLoS Computational Biology*, 13(1): e1005325, 2017. 
+**Hualou Liang** and Hongbin Wang, [Structure-Function Network Mapping and its Assessment via Persistent Homology](https://doi.org/10.1371/journal.pcbi.1005325), *PLoS Computational Biology*, 13(1): e1005325, 2017. 
 
 Meng Hu and **Hualou Liang**, Multiscale Entropy: Recent Advances, In: *Complexity and Nonlinearity in Cardiovascular Signals*, edited by Riccardo Barbieri, Enzo Pasquale Scilingo, Gaetano Valenza, Springer, pp. 115 – 138, 2017.
 
 2016
 ------
-Meng Hu, Mingyao Li, Wu Li and **Hualou Liang**, Joint Analysis of Spikes and Local Field Potentials using Copula, *NeuroImage*, 133: 457 - 467, 2016.
+Meng Hu, Mingyao Li, Wu Li and **Hualou Liang**, [Joint Analysis of Spikes and Local Field Potentials using Copula](https://doi.org/10.1016/j.neuroimage.2016.03.030), *NeuroImage*, 133: 457 - 467, 2016.
 
-Meng Hu, Mingyao Li, Wu Li and **Hualou Liang**, Data on Copula Modeling of Mixed Discrete and Continuous Neural Time Series, *Data in Brief*, 7: 1364 - 1369, 2016.
+Meng Hu, Mingyao Li, Wu Li and **Hualou Liang**, [Data on Copula Modeling of Mixed Discrete and Continuous Neural Time Series](https://doi.org/10.1016/j.dib.2016.04.020Get), *Data in Brief*, 7: 1364 - 1369, 2016.
 
 2015
 ------
-Meng Hu, Kelsey Clark, Xiajing Gong, Behrad Noudoost, Mingyao Li, Tirin Moore, and **Hualou Liang**, Copula Regression Analysis of Simultaneously Recorded Frontal Eye Field and Inferotemporal Spiking Activity During Object-based Working Memory, *Journal of Neuroscience*, 35: 8745 - 8757, 2015.
+Meng Hu, Kelsey Clark, Xiajing Gong, Behrad Noudoost, Mingyao Li, Tirin Moore, and **Hualou Liang**, [Copula Regression Analysis of Simultaneously Recorded Frontal Eye Field and Inferotemporal Spiking Activity During Object-based Working Memory](https://www.jneurosci.org/content/35/23/8745), *Journal of Neuroscience*, 35: 8745 - 8757, 2015.
 
 2014
 ------
-Meng Hu and **Hualou Liang**, A copula approach to assessing Granger causality, *NeuroImage*, 100:125-124, 2014.
+Meng Hu and **Hualou Liang**, [A copula approach to assessing Granger causality](https://doi.org/10.1016/j.neuroimage.2014.06.013), *NeuroImage*, 100:125-124, 2014.
 
-Minggui Chen, Yin Yan, Xiajing Gong, Charles Gilbert, **Hualou Liang** and Wu Li, Incremental Integration of Global Contours through Interplay between Visual Cortical Areas, *Neuron*, 82: 682–694, 2014.
+Minggui Chen, Yin Yan, Xiajing Gong, Charles Gilbert, **Hualou Liang** and Wu Li, [Incremental Integration of Global Contours through Interplay between Visual Cortical Areas](https://doi.org/10.1016/j.neuron.2014.03.023), *Neuron*, 82: 682–694, 2014.
 
-Meng Hu and **Hualou Liang**, Search for information-bearing components in neural data, *PLoS ONE* 9(6): e99793, 2014.
+Meng Hu and **Hualou Liang**, [Search for information-bearing components in neural data](https://doi.org/10.1371/journal.pone.0099793), *PLoS ONE* 9(6): e99793, 2014.
 
 **Hualou Liang**, Wavelet Analysis, In: Jaeger D., Jung R. (Ed.) Encyclopedia of Computational Neuroscience, Springer, New York, 1-3, 2014.
 
