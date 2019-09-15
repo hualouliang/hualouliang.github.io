@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "BMES-672"
-date: 2014-01-01
+date: 2018-09-01
 location: "City, Country"
 ---
 
