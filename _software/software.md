@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits"
-excerpt: "About me"
+layout: archive
+title: "Analysis Software Available"
+permalink: /software/
 author_profile: true
-redirect_from: 
-  - /software/
-  - /software.html
 ---
 
 [BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits](http://www.brain-smart.org/)
