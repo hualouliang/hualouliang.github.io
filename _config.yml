@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hualou Liangg"
+title                    : "Hualou Liang"
 title_separator          : "-"
-name                     : &name "Hualou Liiang"
+name                     : &name "Hualou Liang"
 description              : &description ""
 url                      : https://hualouliang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
