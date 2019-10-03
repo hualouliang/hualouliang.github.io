@@ -12,10 +12,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Research"
+  - title: "Projects"
     url: /research/
         
-  - title: "People"
+  - title: "Team"
     url: /people/
     
   # - title: "News"
