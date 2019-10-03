@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hualou Liang"
+title                    : "Liang Lab"
 title_separator          : "-"
 name                     : &name "Hualou Liang"
 description              : &description ""
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Hualou Liang"
   avatar           : "liang_websmall.jpg"
-  bio              : "Professor @ Drexel University"
+  bio              : |
+    Professor <br>
+    Drexel University
   location         : "Philadelphia, PA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
