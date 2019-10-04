@@ -15,6 +15,6 @@ author_profile: true
   - [Copula GLM for the Analysis of Spikes](https://github.com/hualouliang/CopulaGrangerCausality_Spikes)
   - [Copula GLM for the analysis of mixed data of spikes and local field potentials](https://github.com/hualouliang/CopulaGrangerCausality_MixedData)
   
-* [Granger-Geweke causality: Estimation and interpretation - light version for GC](https://github.com/hualouliang/Granger_Geweke_Causality)
+* [Granger-Geweke causality: Estimation and interpretation - *lite* version for GC](https://github.com/hualouliang/Granger_Geweke_Causality)
 
 For more software packages developed in the lab, visit our [GitHub](https://github.com/hualouliang)
