@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * Hualou Liang
+* Konuralp Bayrak
+* Felix Agbavor
 
-To be updated 
 
