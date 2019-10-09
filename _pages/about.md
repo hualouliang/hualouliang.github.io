@@ -25,7 +25,7 @@ Hualou Liang, PhD
 
 **Office**: Monell 103, 3508 Market St.  
 
-          Philadelphia, PA 19104  
+Philadelphia, PA 19104  
           
 **Tel**: 215-571-3706  
 
