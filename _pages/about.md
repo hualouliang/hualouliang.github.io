@@ -25,7 +25,7 @@ Hualou Liang, PhD
 
 <address>
   Office: Monell 103, 3508 Market St.<br />
-  Philadelphia, PA 19104<br />
+          Philadelphia, PA 19104<br />
   Tel: 215-571-3706<br />
   Email: hualou.liang*at*drexel.edu
 </address>
