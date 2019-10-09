@@ -2,6 +2,8 @@
 layout: archive
 title: "Opening"
 permalink: /opening/
+venue: "Drexel"
+date: 2019-10-01
 author_profile: true
 ---
 
