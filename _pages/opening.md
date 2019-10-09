@@ -5,7 +5,8 @@ permalink: /opening/
 author_profile: true
 ---
 
-## Postdoc Position in Biomedical Deep Learning (updated on 10/1/2019)
+## Postdoc Position in Biomedical Deep Learning  
+(<span style="color:red">updated on 10/1/2019</span>)
 
 I have an immediate opening for a post-doctoral fellow to engage in a federally-funded multi-year project in 
 biomedical deep learning. My research group at Drexel University focuses on developing state-of-the art deep learning-based 
