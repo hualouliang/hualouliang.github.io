@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-* [BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits](https://www.brain-smart.org/)
+* [BSMART: A Matlab/C Toolbox for Analyzing Brain Circuits](https://brain-smart.org/)
 
 * [TensorFlow and PyTorch Implementation for Brain Age Estimation](https://github.com/hualouliang/BrainAgePrediction)
 
