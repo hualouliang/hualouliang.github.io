@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Liang Lab"
+title                    : "The Liang Lab @ Drexel University"
 title_separator          : "-"
 name                     : &name "Hualou Liang"
 description              : &description ""
