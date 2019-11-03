@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "<span style="color:orange">The Liang Lab</span>"
+title                    : "The Liang Lab"
 title_separator          : "-"
 name                     : &name "Hualou Liang"
 description              : &description ""
