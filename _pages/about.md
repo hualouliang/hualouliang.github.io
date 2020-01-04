@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hualou Liang, PhD
+Hualou Liang, PhD 
 ======
 
 ## Professor
