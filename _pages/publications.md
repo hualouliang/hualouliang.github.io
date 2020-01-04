@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=RCFfCtUAAAAJ&hl=en).
+A complete list of publications, see my [Google Scholar Profile](https://scholar.google.com/citations?user=RCFfCtUAAAAJ&hl=en). 
 
-{% if author.googlescholar %}
+{% if author.googlescholar %} 
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
