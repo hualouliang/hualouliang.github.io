@@ -15,4 +15,4 @@ PhD, Physics, Chinese Academy of Sciences, China
 
 Research Interests
 ======
-Neuroengineering, deep learning, cognitive and computational neuroscience, neural data analysis and computational modeling, biomedical signal processing
+Neuroengineering, deep learning, cognitive and computational neuroscience, neural data analysis and computational modeling, biomedical text mining
