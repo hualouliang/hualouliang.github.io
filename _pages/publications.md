@@ -15,7 +15,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 ------
 <span style="color:red">New!</span> Ashley N Opalka, Wenqiang Huang, Jun Liu, **Hualou Liang** and Dong V Wang. [Hippocampal ripple coordinates retrosplenial inhibitory neurons during slow-wave sleep](https://doi.org/10.1016/j.celrep.2019.12.038). *Cell Reports*, 30: 432-441, 2020. 
 
-<span style="color:red">New!</span> Xin Niu, Fengqing Zhang, John Kounios, and **Hualou Liang**. [Improved prediction of brain age using multimodal neuroimaging data](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24899), *Human Brain Mapping*, 2020.
+<span style="color:red">New!</span> Xin Niu, Fengqing Zhang, John Kounios, and **Hualou Liang**. [Improved prediction of brain age using multimodal neuroimaging data](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24899), *Human Brain Mapping*, 41: 1626-1643, 2020.
 
 2019
 ------
