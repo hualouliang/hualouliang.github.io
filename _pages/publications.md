@@ -11,11 +11,15 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+2021
+------
+<span style="color:red">New!</span> **Hualou Liang** Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1016/j.celrep.2019.12.038). *Clinical and Translational Science*, 30: 1-20, 2021. 
+
 2020
 ------
-<span style="color:red">New!</span> Ashley N Opalka, Wenqiang Huang, Jun Liu, **Hualou Liang** and Dong V Wang. [Hippocampal ripple coordinates retrosplenial inhibitory neurons during slow-wave sleep](https://doi.org/10.1016/j.celrep.2019.12.038). *Cell Reports*, 30: 432-441, 2020. 
+Ashley N Opalka, Wenqiang Huang, Jun Liu, **Hualou Liang** and Dong V Wang. [Hippocampal ripple coordinates retrosplenial inhibitory neurons during slow-wave sleep](https://doi.org/10.1016/j.celrep.2019.12.038). *Cell Reports*, 30: 432-441, 2020. 
 
-<span style="color:red">New!</span> Xin Niu, Fengqing Zhang, John Kounios, and **Hualou Liang**. [Improved prediction of brain age using multimodal neuroimaging data](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24899), *Human Brain Mapping*, 41: 1626-1643, 2020.
+Xin Niu, Fengqing Zhang, John Kounios, and **Hualou Liang**. [Improved prediction of brain age using multimodal neuroimaging data](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.24899), *Human Brain Mapping*, 41: 1626-1643, 2020.
 
 2019
 ------
