@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 * Hualou Liang
-* Felix Agbavor 
+* Felix Agbavor
+* Yiwen Shi
+* Taha ValizadehAslani  
 * Konuralp Bayrak
 * Xintong Zhao
 
