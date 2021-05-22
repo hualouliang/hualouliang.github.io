@@ -13,7 +13,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 2021
 ------
-<span style="color:red">New!</span> **Hualou Liang**, Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1016/j.celrep.2019.12.038). *Clinical and Translational Science*, xx: 1-20, 2021. 
+<span style="color:red">New!</span> **Hualou Liang**, Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1111/cts.13007). *Clinical and Translational Science*, xx: 1-20, 2021. 
 
 2020
 ------
