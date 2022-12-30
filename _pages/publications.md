@@ -23,13 +23,13 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 <span style="color:red">New!</span> Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
 
-Taha ValizadehAslani, Yiwen Shi, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data](https://arxiv.org/abs/2207.10858). arXiv preprint arXiv:2207.10858, 2022. 
+Taha ValizadehAslani, Yiwen Shi, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data](https://arxiv.org/abs/2207.10858). arXiv:2207.10858, 2022. 
 
 Vidhusha Srinivasan, Udayakumar N, **Hualou Liang**, Kavitha Anandhan. [A hybrid approach for analysis of brain lateralization in autistic children using graph theory techniques and deep belief networks](https://doi.org/10.1504/IJBET.2022.123258), *International Journal of Biomedical Engineering and Technology*, 39(1): 40-64, 2022
 
 2021
 ------
-Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). arXiv preprint arXiv:2112.02721, 2021. 
+Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). arXiv:2112.02721, 2021. 
 
 Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
 
