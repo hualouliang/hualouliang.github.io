@@ -19,9 +19,9 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 ------
 <span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models]([https://doi.org/10.1371/journal.pdig.0000168]). *PLOS Digital Health*, 1(12): e0000168, 2022. 
 
-Media coverage: [Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm) 
+Media Coverage: [[Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)][[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)][[AAAS](https://www.eurekalert.org/news-releases/975246)][[AIMBE Fellowbook](https://aimbe.org/college-of-fellows/COF-1440/)][[Psychology Today](https://www.psychologytoday.com/us/blog/the-future-brain/202212/ai-model-gpt-3-may-predict-dementia-and-alzheimers-disease)][[Interesting Engineering](https://interestingengineering.com/innovation/chatgpts-ai-alzheimers-disease-diagnosis)][[Jerusalem Post](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-725929)][[Many More Here](https://plos.altmetric.com/details/140454568/news)]
 
-<span style="color:red">New!</span> Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
+Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
 
 Taha ValizadehAslani, Yiwen Shi, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data](https://arxiv.org/abs/2207.10858). arXiv:2207.10858, 2022. 
 
