@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer-Reviewed Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,11 +11,29 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+2023
+------
+<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice]([https://doi.org/10.3390/brainsci13010028]). *Brain Sciences*, 13(1), 28, 2023. 
+
+2022
+------
+<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models]([https://doi.org/10.1371/journal.pdig.0000168]). *PLOS Digital Health*, 1(12): e0000168, 2022. 
+
+<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice]([https://doi.org/10.3390/brainsci13010028]). *Brain Sciences*, 13(1), 28, 2023. 
+
+<span style="color:red">New!</span> Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
+
+Taha ValizadehAslani, Yiwen Shi, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Two-Stage Fine-Tuning: A Novel Strategy for Learning Class-Imbalanced Data](https://arxiv.org/abs/2207.10858). arXiv preprint arXiv:2207.10858, 2022. 
+
+Vidhusha Srinivasan, Udayakumar N, **Hualou Liang**, Kavitha Anandhan. [A hybrid approach for analysis of brain lateralization in autistic children using graph theory techniques and deep belief networks](https://doi.org/10.1504/IJBET.2022.123258), *International Journal of Biomedical Engineering and Technology*, 39(1): 40-64, 2022
+
 2021
 ------
-<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). arXiv preprint arXiv:2112.02721, 2021. 
 
-<span style="color:red">New!</span> **Hualou Liang**, Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1111/cts.13007). *Clinical and Translational Science*, xx: 1-20, 2021. 
+Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
+
+**Hualou Liang**, Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1111/cts.13007). *Clinical and Translational Science*, xx: 1-20, 2021. 
 
 2020
 ------
