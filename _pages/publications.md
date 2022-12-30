@@ -19,7 +19,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 ------
 <span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models]([https://doi.org/10.1371/journal.pdig.0000168]). *PLOS Digital Health*, 1(12): e0000168, 2022. 
 
-<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice]([https://doi.org/10.3390/brainsci13010028]). *Brain Sciences*, 13(1), 28, 2023. 
+Media coverage: [Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm) 
 
 <span style="color:red">New!</span> Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
 
