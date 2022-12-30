@@ -20,6 +20,7 @@ Hualou Liang, PhD
 [Computational Neuroscience Initiative](https://cni.upenn.edu/)  
 [University of Pennsylvania](https://www.upenn.edu/)
 
+<span style="color:red">Media Coverage:</span> [[Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)][[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)][[AAAS](https://www.eurekalert.org/news-releases/975246)][[AIMBE Fellowbook](https://aimbe.org/college-of-fellows/COF-1440/)][[Psychology Today](https://www.psychologytoday.com/us/blog/the-future-brain/202212/ai-model-gpt-3-may-predict-dementia-and-alzheimers-disease)][[Interesting Engineering](https://interestingengineering.com/innovation/chatgpts-ai-alzheimers-disease-diagnosis)][[Jerusalem Post](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-725929)][[Many More Here](https://plos.altmetric.com/details/140454568/news)]
 
 ## Contact 
 
