@@ -6,7 +6,7 @@ author_profile: true
 ---
 Media Coverage
 ---
-**12/22/2022: Our lab is the first to report the use of [GPT-3](https://en.wikipedia.org/wiki/GPT-3), a large language model produced by [OpenAI](https://en.wikipedia.org/wiki/OpenAI), for [predicting dementia from spontaneous speech](https://doi.org/10.1371/journal.pdig.0000168). The work has been included in [GPT-3 Wikipedia page](https://en.wikipedia.org/wiki/GPT-3): *“A 2022 [Drexel University](https://en.wikipedia.org/wiki/Drexel_University) study suggested that systems based on GPT-3 could be used to screen for early signs of [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease).”***
+**12/22/2022: Our lab is the first to report the use of [GPT-3](https://en.wikipedia.org/wiki/GPT-3), a large language model produced by [OpenAI](https://en.wikipedia.org/wiki/OpenAI), for early diagnosis of dementia. The work has been included in [GPT-3 Wikipedia page](https://en.wikipedia.org/wiki/GPT-3): *“A 2022 [Drexel University](https://en.wikipedia.org/wiki/Drexel_University) study suggested that systems based on GPT-3 could be used to screen for early signs of [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease).”***
 
 Agbavor, Felix; Liang, Hualou (December 22, 2022). "Predicting dementia from spontaneous speech using large language models". *PLOS Digital Health*. 1 (12): e0000168. [doi:10.1371/journal.pdig.0000168](https://doi.org/10.1371/journal.pdig.0000168)
 
