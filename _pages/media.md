@@ -19,5 +19,5 @@ Agbavor, Felix; Liang, Hualou (December 22, 2022). "Predicting dementia from spo
 * [12/27/2022, **Interesting Engineering**, ChatGPT is 80% effective at identifying Alzheimer’s disease, study shows](https://interestingengineering.com/innovation/chatgpts-ai-alzheimers-disease-diagnosis)
 * [12/27/2022, **Jerusalem Post**, Can ChatGPT AI chatbot spot early stages of Alzheimer's?](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-725929)
 * [01/02/2023, **The Examiner**, New Alzheimer’s Research Illustrates Positive Possibilities of Scary Tech](https://www.theexaminernews.com/new-alzheimers-research-illustrates-positive-possibilities-of-scary-tech)
-* [01/03/2023, New York Post, How chat bots can actually detect Alzheimer’s disease](https://nypost.com/2023/01/03/chat-bots-could-be-key-to-early-alzheimers-detection)
-* [01/04/2023, IEEE Spectrum, ChatGPT’s AI Can Help Screen For Alzheimer’s](https://spectrum.ieee.org/gpt-3-ai-chat-alzheimers)
+* [01/03/2023, **New York Post**, How chat bots can actually detect Alzheimer’s disease](https://nypost.com/2023/01/03/chat-bots-could-be-key-to-early-alzheimers-detection)
+* [01/04/2023, **IEEE Spectrum**, ChatGPT’s AI Can Help Screen For Alzheimer’s](https://spectrum.ieee.org/gpt-3-ai-chat-alzheimers)
