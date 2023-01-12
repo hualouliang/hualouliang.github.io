@@ -33,4 +33,4 @@ Agbavor, Felix; Liang, Hualou (December 22, 2022). "[Predicting dementia from sp
 * 01/10/2023 
   - [_**Singularity Hub**_, GPT-3’s Next Mark: Diagnosing Alzheimer’s Through Speech](https://singularityhub.com/2023/01/10/gpt-3s-next-mark-diagnosing-alzheimers-through-speech/)
 * 01/12/2023
-  - [_**Medium**_,Speech and GPT-3 As An Predictor Of Early Alzheimer’s Disease](https://johnnosta.medium.com/speech-and-gpt-3-as-an-early-predictor-of-alzheimers-disease-ec51ac53c942)
+  - [_**Medium**_, Speech and GPT-3 As An Predictor Of Early Alzheimer’s Disease](https://johnnosta.medium.com/speech-and-gpt-3-as-an-early-predictor-of-alzheimers-disease-ec51ac53c942)
