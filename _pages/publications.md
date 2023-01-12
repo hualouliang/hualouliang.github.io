@@ -15,11 +15,11 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 ------
 <span style="color:red">New!</span>	Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
 
-<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice]([https://doi.org/10.3390/brainsci13010028]). *Brain Sciences*, 13(1), 28, 2023. 
+<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice](https://doi.org/10.3390/brainsci13010028). *Brain Sciences*, 13(1), 28, 2023. 
 
 2022
 ------
-<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models]([https://doi.org/10.1371/journal.pdig.0000168]). *PLOS Digital Health*, 1(12): e0000168, 2022. 
+<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models](https://doi.org/10.1371/journal.pdig.0000168). *PLOS Digital Health*, 1(12): e0000168, 2022. 
 
 <span style="color:red">Media Coverage:</span> [[Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)][[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)][[AAAS](https://www.eurekalert.org/news-releases/975246)][[AIMBE Fellowbook](https://aimbe.org/college-of-fellows/COF-1440/)][[Psychology Today](https://www.psychologytoday.com/us/blog/the-future-brain/202212/ai-model-gpt-3-may-predict-dementia-and-alzheimers-disease)][[Interesting Engineering](https://interestingengineering.com/innovation/chatgpts-ai-alzheimers-disease-diagnosis)][[Jerusalem Post](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-725929)][[The Examiner](https://www.theexaminernews.com/new-alzheimers-research-illustrates-positive-possibilities-of-scary-tech/)][[New York Post](https://nypost.com/2023/01/03/chat-bots-could-be-key-to-early-alzheimers-detection)][[IEEE Spectrum](https://spectrum.ieee.org/gpt-3-ai-chat-alzheimers)][[More Press Releases](https://plos.altmetric.com/details/140454568/news)]
 
