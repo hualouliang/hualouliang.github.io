@@ -13,6 +13,8 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 2023
 ------
+<span style="color:red">New!</span>	Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
+
 <span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice]([https://doi.org/10.3390/brainsci13010028]). *Brain Sciences*, 13(1), 28, 2023. 
 
 2022
