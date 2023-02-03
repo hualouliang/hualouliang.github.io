@@ -34,3 +34,6 @@ Media Coverage
   - [_**Singularity Hub**_, GPT-3’s Next Mark: Diagnosing Alzheimer’s Through Speech](https://singularityhub.com/2023/01/10/gpt-3s-next-mark-diagnosing-alzheimers-through-speech/)
 * 01/12/2023
   - [_**Medium**_, Speech and GPT-3 As An Predictor Of Early Alzheimer’s Disease](https://johnnosta.medium.com/speech-and-gpt-3-as-an-early-predictor-of-alzheimers-disease-ec51ac53c942)
+* 02/03/2023
+  - [_**WebMD**_, ChatGPT's AI Could Help Catch Alzheimer's Early](https://www.webmd.com/alzheimers/news/20230203/chatgpt-ai-help-catch-alzheimers-early)
+ 
