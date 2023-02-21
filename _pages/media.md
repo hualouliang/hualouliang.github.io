@@ -36,4 +36,6 @@ Media Coverage
   - [_**Medium**_, Speech and GPT-3 As An Predictor Of Early Alzheimer’s Disease](https://johnnosta.medium.com/speech-and-gpt-3-as-an-early-predictor-of-alzheimers-disease-ec51ac53c942)
 * 02/03/2023
   - [_**WebMD**_, ChatGPT's AI Could Help Catch Alzheimer's Early](https://www.webmd.com/alzheimers/news/20230203/chatgpt-ai-help-catch-alzheimers-early)
- 
+* 02/21/2023
+  - [_**The Daily Pennsylvanian**_, Drexel study finds AI behind ChatGPT could identify early signs of Alzheiemer's](https://www.thedp.com/article/2023/02/penn-drexel-study-ai-detecting-alzheimers)
+  
