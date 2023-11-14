@@ -13,13 +13,19 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 2023
 ------
-<span style="color:red">New!</span>	Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
+<span style="color:red">New!</span> Yiwen Shi, Ping Ren, Jing Wang, Biao Han, Taha ValizadehAslani, Felix Agbavor, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Leveraging GPT-4 for Food Effect Summarization to Enhance Product-Specific Guidance Development via Iterative Prompting](https://doi.org/10.1016/j.jbi.2023.104533). *Journal of Biomedical Informatics*. 148: 104533, 2023.
 
-<span style="color:red">New!</span>	Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice](https://doi.org/10.3390/brainsci13010028). *Brain Sciences*, 13(1), 28, 2023. 
+<span style="color:red">New!</span> Taha ValizadehAslani, Yiwen Shi, Ping Ren, Jing Wang, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [PharmBERT: a domain-specific BERT model for drug labels](https://doi.org/10.1093/bib/bbad226). *Briefings in Bioinformatics*. 1-10, 2023. 
+
+Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). *Northern European Journal of Language Technology*, 2023. 
+
+<span style="color:red">New!</span>	Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
 
 2022
 ------
 🔥 Felix Agbavor and **Hualou Liang**. [Predicting Dementia from Spontaneous Speech using Large Language Models](https://doi.org/10.1371/journal.pdig.0000168). *PLOS Digital Health*, 1(12): e0000168, 2022. [[Media Coverage](https://liang-lab.org/media/)]  
+
+Felix Agbavor and **Hualou Liang**. [Artificial intelligence-enabled end-to-end detection and assessment of Alzheimer’s disease using voice](https://doi.org/10.3390/brainsci13010028). *Brain Sciences*, 13(1), 28, 2022. 
 
 Yiwen Shi, Taha ValizadehAslani, Jing Wang, Ping Ren, Yi Zhang, Meng Hu, Liang Zhao, **Hualou Liang**. [Improving Imbalanced Learning by Pre-Finetuning with Data Augmentation](https://proceedings.mlr.press/v183/shi22a/shi22a.pdf). *Proceedings of the Fourth International Workshop on Learning with Imbalanced Domains: Theory and Applications, PMLR*. 183:68-82, 2022.
 
@@ -29,8 +35,6 @@ Vidhusha Srinivasan, Udayakumar N, **Hualou Liang**, Kavitha Anandhan. [A hybrid
 
 2021
 ------
-Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). arXiv:2112.02721, 2021. 
-
 Yiwen Shi, Ping Ren, Yi Zhang, Xiajing Gong, Meng Hu, **Hualou Liang**. [Information Extraction from FDA Drug Labeling to Enhance Product-Specific Guidance Assessment Using Natural Language Processing](https://doi.org/10.3389/frma.2021.670006). *Frontiers in Research Metrics and Analytics* 6: 40, 2021. 
 
 **Hualou Liang**, Liang Zhao, Xiajing Gong, Meng Hu and Hongbin Wang. [Virtual Screening FDA Approved Drugs against Multiple Targets of SARS-CoV-2](https://doi.org/10.1111/cts.13007). *Clinical and Translational Science*, xx: 1-20, 2021. 
