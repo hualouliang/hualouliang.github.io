@@ -19,7 +19,7 @@ A complete list of publications, see my [Google Scholar Profile](https://scholar
 
 Kaustubh D Dhole and 121 others, including **Hualou Liang**, [NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation](https://arxiv.org/pdf/2112.02721.pdf). *Northern European Journal of Language Technology*, 2023. 
 
-<span style="color:red">New!</span>	Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
+Yiwen Shi, Jing Wang, Ping Ren, Taha ValizadehAslani, Yi Zhang, Meng Hu and **Hualou Liang**. [Fine-Tuning BERT for Automatic ADME Semantic Labeling in FDA Drug Labeling to Enhance Product-Specific Guidance Assessment](https://doi.org/10.1016/j.jbi.2023.104285). *Journal of Biomedical Informatics*, 104285, 2023. 
 
 2022
 ------
