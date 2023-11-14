@@ -9,8 +9,8 @@ author_profile: true
 * Felix Agbavor
 * Yiwen Shi
 * Taha ValizadehAslani  
-* Konuralp Bayrak
-* Xintong Zhao
+* Keyvan Ansarino
+* Menglin Niu
 
 
 
