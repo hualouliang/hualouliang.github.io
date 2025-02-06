@@ -20,7 +20,7 @@ Hualou Liang, PhD
 [Computational Neuroscience Initiative](https://cni.upenn.edu/)  
 [University of Pennsylvania](https://www.upenn.edu/)
 
-🔥 **09/29/2024: Our lab won 1st ans 2nd Place at the [INTERSPEECH 2024 TAUKADIAL Challenge](https://taukadial-luzs-69e3bf4b9878b99a6f03aea43776344580b77b9fe54725f4.gitlab.io/ranking.html) for Dementia Prediction Using Large Language Models (LLMs)[[News Coverage](https://drexel.edu/biomed/news-and-events/news/2024/November/Hualou-Liang-and-Felix%20Agbavor-Win-1st-and-2nd-Place-at-INTERSPEECH%202024/)]**
+🔥 **09/29/2024: Our lab won 1st ans 2nd Place at the [INTERSPEECH 2024 TAUKADIAL Challenge](https://taukadial-luzs-69e3bf4b9878b99a6f03aea43776344580b77b9fe54725f4.gitlab.io/ranking.html) for Dementia Prediction Using Large Language Models (LLMs). The team developed innovative on-prem open-source Small Language Models (SLMs) to address the privacy and security concerns. The new algorithm fared exceedingly well in the international community and far surpassed those at some top US universities. [[News Coverage](https://drexel.edu/biomed/news-and-events/news/2024/November/Hualou-Liang-and-Felix%20Agbavor-Win-1st-and-2nd-Place-at-INTERSPEECH%202024/)]**
 
 🔥 **12/22/2022: Our lab is the first to report the use of [GPT-3](https://en.wikipedia.org/wiki/GPT-3), a large language model produced by [OpenAI](https://en.wikipedia.org/wiki/OpenAI), for early diagnosis of dementia. The work has been included in [GPT-3 Wikipedia page](https://en.wikipedia.org/wiki/GPT-3): *“A 2022 [Drexel University](https://en.wikipedia.org/wiki/Drexel_University) study suggested that systems based on GPT-3 could be used to screen for early signs of [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease).”***
 
