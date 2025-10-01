@@ -11,7 +11,7 @@ redirect_from:
 Hualou Liang, PhD 
 ======
 
-
+講座教授: 梁化楼教授    
 
 <!--- You may force a line break with two spaces --->  
 [Chair Professor](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/) of Neuroscience and Artificial Intelligence  
