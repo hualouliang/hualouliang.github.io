@@ -11,10 +11,10 @@ redirect_from:
 Hualou Liang, PhD 
 ======
 
-## Professor
-<!--- You may force a line break with two spaces --->
-[School of Biomedical Engineering, Science & Health Systems](https://drexel.edu/biomed/)  
-[Drexel University](https://drexel.edu/)
+## [Chair Professor of Neuroscience and Artificial Intelligenc](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/)
+## [Associate Director, University Research Facility in Behavioral & Systems Neuroscience](https://www.polyu.edu.hk/ubsn/)
+<!--- You may force a line break with two spaces --->  
+[The Hong Kong Polytechnic University](https://www.polyu.edu.hk)
 
 ## Affiliation
 [Computational Neuroscience Initiative](https://cni.upenn.edu/)  
