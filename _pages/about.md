@@ -30,11 +30,11 @@ Agbavor, Felix; Liang, Hualou (December 22, 2022). "[Predicting dementia from sp
 
 ## Contact 
 
-**Office**: Monell 103  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3508 Market St.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Philadelphia, PA 19104  
-**Tel**: 215-571-3706  
-**Email**: hualou.liang\*at\*drexel.edu
+**Office**: HHB717  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7/F, PolyU Hung Hom Bay Campus  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 Hung Lok Road, Hung Hom, Kowloon, Hong Kong  
+**Tel**: 852-2766-7697  
+**Email**: hualou.liang\*at\*polyu.edu.hk
 
 <!--
   <address>
