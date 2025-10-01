@@ -13,7 +13,7 @@ Hualou Liang, PhD
 
 ## 講座教授：梁化楼教授
 <!--- You may force a line break with two spaces --->  
-[Chair Professor of Neuroscience and Artificial Intelligenc](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/)  
+[Chair Professor of Neuroscience and Artificial Intelligence](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/)  
 [Associate Director, University Research Facility in Behavioral & Systems Neuroscience](https://www.polyu.edu.hk/ubsn/)  
 [The Hong Kong Polytechnic University](https://www.polyu.edu.hk)
 
