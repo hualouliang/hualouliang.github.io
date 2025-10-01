@@ -83,13 +83,13 @@ author:
   name             : "Hualou Liang"
   avatar           : "liang_websmall.jpg"
   bio              : |
-    Professor <br>
-    Drexel University
-  location         : "Philadelphia, PA"
+    Chair Professor <br>
+    The Hong Kong Polytechnic University
+  location         : "Hong Kong"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RCFfCtUAAAAJ&hl=en"
-  email            : "hualou.liang@drexel.edu"
+  email            : "hualou.liang@polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
