@@ -11,19 +11,19 @@ redirect_from:
 Hualou Liang, PhD 
 ======
 
-講座教授：梁化楼教授  
+
 
 <!--- You may force a line break with two spaces --->  
 [Chair Professor](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/) of Neuroscience and Artificial Intelligence  
 [Associate Director](https://www.polyu.edu.hk/ubsn/), UBSN  
+  
 [The Hong Kong Polytechnic University](https://www.polyu.edu.hk)  
 
 
-🔥 **09/29/2024: Our lab won 1st and 2nd place at the [INTERSPEECH 2024 TAUKADIAL Challenge](https://taukadial-luzs-69e3bf4b9878b99a6f03aea43776344580b77b9fe54725f4.gitlab.io/ranking.html) for dementia prediction using LLMs. The team developed innovative on-prem open-source Small Language Models (SLMs) to address the privacy and security concerns. The new algorithm fared exceedingly well in the international community and far surpassed those at some top US universities. [[News Coverage](https://drexel.edu/biomed/news-and-events/news/2024/November/Hualou-Liang-and-Felix%20Agbavor-Win-1st-and-2nd-Place-at-INTERSPEECH%202024/)]**
+🔥 **09/29/2024:** Our lab won 1st and 2nd place at the [INTERSPEECH 2024 TAUKADIAL Challenge](https://taukadial-luzs-69e3bf4b9878b99a6f03aea43776344580b77b9fe54725f4.gitlab.io/ranking.html) for dementia prediction using LLMs. The team developed innovative on-prem open-source Small Language Models (SLMs) to address the privacy and security concerns. The new algorithm fared exceedingly well in the international community and far surpassed those at some top US universities. [[News Coverage](https://drexel.edu/biomed/news-and-events/news/2024/November/Hualou-Liang-and-Felix%20Agbavor-Win-1st-and-2nd-Place-at-INTERSPEECH%202024/)]
 
-🔥 **12/22/2022: Our lab is the first to report the use of [GPT-3](https://en.wikipedia.org/wiki/GPT-3), a large language model (LLM) produced by [OpenAI](https://en.wikipedia.org/wiki/OpenAI), for early diagnosis of dementia. The work has been included in [GPT-3 Wikipedia page](https://en.wikipedia.org/wiki/GPT-3): *“A 2022 [Drexel University](https://en.wikipedia.org/wiki/Drexel_University) study suggested that systems based on GPT-3 could be used to screen for early signs of [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease).”***
+🔥 **12/22/2022:** Our lab is the first to report the use of GPT-3, a large language model (LLM) produced by OpenAI, for [early diagnosis of dementia](https://doi.org/10.1371/journal.pdig.0000168). The work has been included in [GPT-3 Wikipedia page](https://en.wikipedia.org/wiki/GPT-3): *“A 2022 [Drexel University](https://en.wikipedia.org/wiki/Drexel_University) study suggested that systems based on GPT-3 could be used to screen for early signs of [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease).”*
 
-Agbavor, Felix; Liang, Hualou (December 22, 2022). "[Predicting dementia from spontaneous speech using large language models](https://doi.org/10.1371/journal.pdig.0000168)". *PLOS Digital Health*. 1 (12): e0000168.
 
 <span style="color:red">Media Coverage:</span> [[Drexel News](https://drexel.edu/news/archive/2022/December/GPT-3-alzheimers-disease)][[ScienceDaily](https://www.sciencedaily.com/releases/2022/12/221222162415.htm)][[AAAS](https://www.eurekalert.org/news-releases/975246)][[AIMBE](https://aimbe.org/college-of-fellows/COF-1440/)][[Psychology Today](https://www.psychologytoday.com/us/blog/the-future-brain/202212/ai-model-gpt-3-may-predict-dementia-and-alzheimers-disease)][[Interesting Engineering](https://interestingengineering.com/innovation/chatgpts-ai-alzheimers-disease-diagnosis)][[Jerusalem Post](https://www.jpost.com/health-and-wellness/mind-and-spirit/article-725929)][[The Examiner](https://www.theexaminernews.com/new-alzheimers-research-illustrates-positive-possibilities-of-scary-tech/)][[New York Post](https://nypost.com/2023/01/03/chat-bots-could-be-key-to-early-alzheimers-detection)][[IEEE Spectrum](https://spectrum.ieee.org/gpt-3-ai-chat-alzheimers)][[More Press Releases](https://plos.altmetric.com/details/140454568/news)]
 
