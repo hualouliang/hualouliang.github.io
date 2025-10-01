@@ -11,15 +11,13 @@ redirect_from:
 Hualou Liang, PhD 
 ======
 
-講座教授：梁化楼教授
-<!--- You may force a line break with two spaces --->  
-**Chair Professor** of [Neuroscience and Artificial Intelligence](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/)  
-**Associate Director**, [UBSN](https://www.polyu.edu.hk/ubsn/)  
-[The Hong Kong Polytechnic University](https://www.polyu.edu.hk)
+講座教授：梁化楼教授  
 
-## Affiliation
-[Computational Neuroscience Initiative](https://cni.upenn.edu/)  
-[University of Pennsylvania](https://www.upenn.edu/)
+<!--- You may force a line break with two spaces --->  
+[Chair Professor](https://www.polyu.edu.hk/lst/people/academic-staff/liang-hualou/) of Neuroscience and Artificial Intelligence  
+[Associate Director](https://www.polyu.edu.hk/ubsn/), UBSN  
+[The Hong Kong Polytechnic University](https://www.polyu.edu.hk)  
+
 
 🔥 **09/29/2024: Our lab won 1st and 2nd place at the [INTERSPEECH 2024 TAUKADIAL Challenge](https://taukadial-luzs-69e3bf4b9878b99a6f03aea43776344580b77b9fe54725f4.gitlab.io/ranking.html) for dementia prediction using LLMs. The team developed innovative on-prem open-source Small Language Models (SLMs) to address the privacy and security concerns. The new algorithm fared exceedingly well in the international community and far surpassed those at some top US universities. [[News Coverage](https://drexel.edu/biomed/news-and-events/news/2024/November/Hualou-Liang-and-Felix%20Agbavor-Win-1st-and-2nd-Place-at-INTERSPEECH%202024/)]**
 
