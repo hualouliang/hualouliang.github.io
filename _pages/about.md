@@ -15,7 +15,7 @@ Hualou Liang, PhD
 
 <!--- You may force a line break with two spaces --->  
 Sin Wai Kin Foundation Professor in Humanities and Technology  
-[Chair Professor](https://www.polyu.edu.hk/aih/people/academic-staff/liang-hualou/) of Neuroscience and Artificial Intelligence  
+[Chair Professor](https://www.polyu.edu.hk/aih/people/academic-staff/hualou-liang/) of Neuroscience and Artificial Intelligence  
 [Associate Director](https://www.polyu.edu.hk/ubsn/), UBSN  
 [Interim Head, Division of Artificial Intelligence and the Humanities](https://www.polyu.edu.hk/aih/) 
   
